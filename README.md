@@ -37,9 +37,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?Deekshitha-r8)
 
-## Contribution Graph
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?Deekshitha-r8)
 
 ## Badges
 
