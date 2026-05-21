@@ -50,8 +50,6 @@
 
 ### Connect With Me
 
-* GitHub: Add your GitHub profile link here
-* LinkedIn: Add your LinkedIn profile link here
-* Email: Add your email here
+* GitHub: [github.com/Deekshitha-r8/Deekshitha-r8]
+* LinkedIn: [linked.com/](https://www.linkedin.com/in/deekshitha-r-448bb338b/)
 
-> Replace `YOUR_USERNAME` with your actual GitHub username to make the graphs work properly.
