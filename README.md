@@ -49,7 +49,5 @@
 ---
 
 ### Connect With Me
-
-* GitHub: [ github.com/Deekshitha-r8/ ]
 * LinkedIn: [linked.com/](https://www.linkedin.com/in/deekshitha-r-448bb338b/)
 
