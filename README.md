@@ -50,6 +50,6 @@
 
 ### Connect With Me
 
-* GitHub: [github.com/Deekshitha-r8/Deekshitha-r8]
+* GitHub: [ github.com/Deekshitha-r8/ ]
 * LinkedIn: [linked.com/](https://www.linkedin.com/in/deekshitha-r-448bb338b/)
 
