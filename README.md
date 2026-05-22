@@ -11,7 +11,7 @@
 
 ## Skills
 
-* Languages: Python, Java, JavaScript
+* Languages: Python, Java, JavaScript,C
 * Web: HTML, CSS, JavaScript
 * Tools: VS Code, Git, GitHub
 * Concepts: OOP, Basic Data Structures, Problem Solving
