@@ -1,13 +1,15 @@
+<div align="center">
+
 ```
-  ██████╗ ███████╗███████╗██╗  ██╗███████╗██╗████████╗██╗  ██╗ █████╗ 
-  ██╔══██╗██╔════╝██╔════╝██║ ██╔╝██╔════╝██║╚══██╔══╝██║  ██║██╔══██╗
-  ██║  ██║█████╗  █████╗  █████╔╝ ███████╗██║   ██║   ███████║███████║
-  ██║  ██║██╔══╝  ██╔══╝  ██╔═██╗ ╚════██║██║   ██║   ██╔══██║██╔══██║
-  ██████╔╝███████╗███████╗██║  ██╗███████║██║   ██║   ██║  ██║██║  ██║
-  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+ ___       _     _     _ _   _     _
+|   \  ___| |_  | |__ (_) |_| |__ (_)
+| |) |/ -_)  _| | / /| | / /| / /| |
+|___/ \___|\__| |_\_\|_|_\_\|_\_\|_|
 ```
 
-**3rd Year CS Student** | **Coder** | **Open Source**
+**Deekshitha R** | 3rd Year CS Student | Coder | Open Source
+
+</div>
 
 ---
 
@@ -28,7 +30,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deekshitha-r8&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-r8&layout=compact&theme=radical&hide_border=true)
@@ -54,7 +56,7 @@
 ---
 
 <div align="center">
-  
+
 **Always learning. Always building.** ⚡
 
 </div>
