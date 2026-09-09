@@ -1,6 +1,6 @@
 # Hey, I'm Deekshitha R 👋
 
-3rd Year CS Student | Building things with code
+3rd Year Computer Science Student | Full-stack development, problem solving, and learning in public
 
 ---
 
@@ -17,17 +17,41 @@
 
 ### 📊 Stats
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deekshitha-r8&show_icons=true&theme=radical&hide_border=true" />
+![Public repositories](https://img.shields.io/badge/Public%20repositories-4-181717?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Deekshitha-r8?style=for-the-badge&logo=github&label=Followers)
+![Profile views](https://komarev.com/ghpvc/?username=Deekshitha-r8&style=for-the-badge&color=blue)
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-r8&layout=compact&theme=radical&hide_border=true" />
+| Focus | Details |
+| --- | --- |
+| Current year | 3rd year Computer Science |
+| Public projects | 4 |
+| Recent activity | 33 contributions in the last year |
+| Main interests | Full-stack apps, DSA, APIs, and practical automation |
+
+> The previous stats cards depended on `github-readme-stats.vercel.app`, which is currently returning HTTP 503. These badges keep the section visible while still linking to live GitHub profile data.
+
+### 🚀 Featured Projects
+
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [JobTrackr](https://github.com/Deekshitha-r8/Job-tracker) | Tracks internship applications with search, status filters, notes, and a dashboard for interviews, offers, and rejections. | Python, Flask, SQLite, HTML, CSS, JavaScript |
+| [Bug Tracker](https://github.com/Deekshitha-r8/Bug-Tracker) | Full-stack bug management with role-based access, priorities, workflow states, comments, audit history, dashboard analytics, and REST APIs. | Node.js, Express, JavaScript, MySQL, JWT |
+| [ShoeKart](https://github.com/Deekshitha-r8/Shoekart) | E-commerce app with authentication, product browsing, cart management, checkout, order storage, and form validation. | PHP, MySQL, HTML, CSS, JavaScript |
+
+### 🧰 Languages & Tools
+
+**Languages:** Python · JavaScript · PHP · Java · C · HTML · CSS · SQL
+**Frameworks & platforms:** Flask · Node.js · Express.js · MySQL · SQLite · XAMPP · REST APIs · Git
 
 ---
 
 ### What I'm Into
 
-- Web Development & DSA
-- Open source contributions
-- Learning new frameworks
+- Building useful full-stack web applications
+- Data structures, algorithms, and writing cleaner solutions
+- Designing practical dashboards and user workflows
+- Databases, authentication, REST APIs, and backend architecture
+- Exploring new frameworks and contributing to open source
 
 ---
 
