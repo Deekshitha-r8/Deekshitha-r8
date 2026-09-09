@@ -17,9 +17,9 @@
 
 ### 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deekshitha-r8&show_icons=true&theme=radical&hide_border=true)
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deekshitha-r8&show_icons=true&theme=radical&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-r8&layout=compact&theme=radical&hide_border=true)
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-r8&layout=compact&theme=radical&hide_border=true" />
 
 ---
 
