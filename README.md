@@ -1,13 +1,8 @@
 <div align="center">
 
-```
- ___       _     _     _ _   _     _
-|   \  ___| |_  | |__ (_) |_| |__ (_)
-| |) |/ -_)  _| | / /| | / /| / /| |
-|___/ \___|\__| |_\_\|_|_\_\|_\_\|_|
-```
+[![Deekshitha R](https://avatars.githubusercontent.com/u/237714899?v=4&s=200)](https://github.com/Deekshitha-r8)
 
-**Deekshitha R** | 3rd Year CS Student | Coder | Open Source
+**3rd Year CS Student** | **Coder** | **Open Source**
 
 </div>
 
