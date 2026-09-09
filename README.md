@@ -1,53 +1,60 @@
-# Hi there, I'm Deekshitha  👋
+```
+  ██████╗ ███████╗███████╗██╗  ██╗███████╗██╗████████╗██╗  ██╗ █████╗ 
+  ██╔══██╗██╔════╝██╔════╝██║ ██╔╝██╔════╝██║╚══██╔══╝██║  ██║██╔══██╗
+  ██║  ██║█████╗  █████╗  █████╔╝ ███████╗██║   ██║   ███████║███████║
+  ██║  ██║██╔══╝  ██╔══╝  ██╔═██╗ ╚════██║██║   ██║   ██╔══██║██╔══██║
+  ██████╔╝███████╗███████╗██║  ██╗███████║██║   ██║   ██║  ██║██║  ██║
+  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-## About Me
-
-* 🎓 2nd Year Computer Science Engineering student at CIT
-* 💻 Passionate about coding, web development, and learning new technologies
-* 🌱 Currently improving my skills in Python, JavaScript, and Data Structures
-* 🚀 Interested in internships, real-world projects, and open-source contributions
-* 📚 Exploring areas like Data Science, Web Development, and Software Engineering
-* ⚡ Love building creative and useful projects
-
-## Skills
-
-* Languages: Python, Java, JavaScript,C
-* Web: HTML, CSS, JavaScript
-* Tools: VS Code, Git, GitHub
-* Concepts: OOP, Basic Data Structures, Problem Solving
-
-## Current Goals
-
-* Build strong development skills
-* Create impactful projects for my portfolio
-* Gain internship experience in tech
-* Learn modern frameworks and industry tools
-
-## Fun Fact
-
-✨ I enjoy learning new things and staying consistent with self-improvement.
+**3rd Year CS Student** | **Coder** | **Open Source**
 
 ---
 
-## GitHub Stats
+### 💻 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Deekshitha-r8\&show_icons=true)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Deekshitha-r8\&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?Deekshitha-r8)
-
-
-## Badges
-
-![Python](https://img.shields.io/badge/Python-Programming-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web-yellow)
-![HTML](https://img.shields.io/badge/HTML5-Markup-orange)
-![CSS](https://img.shields.io/badge/CSS3-Styling-blue)
-![GitHub](https://img.shields.io/badge/GitHub-Projects-black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### Connect With Me
-* LinkedIn: [linked.com/](https://www.linkedin.com/in/deekshitha-r-448bb338b/)
+### 📊 GitHub Stats
 
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deekshitha-r8&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deekshitha-r8&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Deekshitha-r8&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+### 🎯 Focus Areas
+
+- **DSA & Problem Solving** | **Web Development** | **Software Engineering**
+- Building projects | Learning frameworks | Contributing to open source
+
+---
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deekshitha-r-448bb338b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deekshitha-r8)
+
+---
+
+<div align="center">
+  
+**Always learning. Always building.** ⚡
+
+</div>
